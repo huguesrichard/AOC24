@@ -6,7 +6,7 @@ test="""
 
 
 ###Reading the file
-filename = "./input_day11.txt"
+filename = "./inputs/input-dayXX.txt"
 fin = open(filename, "r")
 textfull = fin.read()
 fin.close()
