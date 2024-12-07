@@ -73,7 +73,7 @@ def fillMatrix(mat:ndarray, start_pos: tuple[int,int],
         mat_fill[cpos] = CODE["X"]
         cpos,cdir = move(cpos, cdir, mat)
         if lpath > lpath_max:
-            print(f"Error with this one we are looping and not detecting it")
+            #print(f"Error with this one we are looping and not detecting it")
             return mat_fill, True
     return mat_fill, inCycle
 
