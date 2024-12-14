@@ -9,3 +9,4 @@ my second attempt at the Advent of Code coding puzzles, 2024 edition
 - Day 8 was really easy on the first star using an integer recoding and numpy matrices. However I got confused with matrix redimensionning and 3D matrix products on star 2 and it took me an incredible amount of time to debug. Morality: sometimes it's better to stick with the easiest solution first. 
 - Day 9, damn I did it too complicated for star 2, but it worked in the end
 - Day 10 was so easy I did the second star on the first try without noticing
+- Day 11 seemed easy and then was it took way too long for the second star. Then after thinking about it, one sees how the problem is in fact finite and the values can be indexed, it was again easy, and quite fast!
